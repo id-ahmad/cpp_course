@@ -1,0 +1,5 @@
+# ignore vscode files
+.vscode/
+
+#ignore main executables
+main
